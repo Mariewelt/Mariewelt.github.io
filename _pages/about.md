@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/Mariewelt/mariewelt/tree/master/files/mariewelt_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://mariewelt.github.io/mariewelt/files/mariewelt_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a second-year Ph.D student in the [Molecular Modeling Laboratory](http://mml.web.unc.edu) at the [University of North Carolina and Chapel Hill](https://www.unc.edu). 
