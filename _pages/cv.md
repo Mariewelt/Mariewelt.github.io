@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to view my CV in pdf](http://mariewelt.github.io/mariewelt/files/MariyaPopova_cv.pdf)
+[Click here to view my CV in pdf](http://mariewelt.github.io/files/MariyaPopova_cv.pdf)
