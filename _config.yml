@@ -82,7 +82,7 @@ author:
   bio              : "PhD student, UNC-Chapel Hill"
   location         : "Chapel Hill, North Carolina"
   employer         : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=j3rvYtcAAAAJ&hl=en&oi=sra"
   email            : "mariewelt@gmail.com"
   uri              : 
   bitbucket        :
@@ -94,16 +94,16 @@ author:
   github           : "Mariewelt"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        : "mariewella"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mariya-popova-a225a0a6/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "mariewelt"
   vine             :
   weibo            :
   xing             :
@@ -248,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
