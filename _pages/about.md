@@ -18,6 +18,8 @@ redirect_from:
 
 
 # Recent News
+* March 18-21, 2019. I gave a talk at NVIDIA GTC 2019. Slides could be found [here](https://github.com/Mariewelt/mariewelt.github.io/blob/master/files/GTC_2019_presentation.pdf).
+* March 8, 2019. I was accepted to [Deep Learning and Reinforcement Learning Summer School 2019](https://dlrlsummerschool.ca).
 * December 18, 2018. I received [NVIDIA Graduate Fellowship for 2019-2020](https://research.nvidia.com/grad_fellowship/2019).
 * December 2, 2018. I received [the First 2019 MolSSI Seed Software Fellowship](https://molssi.org/2018/12/02/1520/) from the [Molecular Sciences Software Institute](https://molssi.org/).
 * July 4, 2018. Our paper ["Deep reinforcement learning for de novo drug design"](http://advances.sciencemag.org/content/4/7/eaap7885) came out in Science Advances.
