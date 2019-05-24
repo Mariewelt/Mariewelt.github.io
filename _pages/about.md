@@ -18,6 +18,7 @@ redirect_from:
 
 
 # Recent News
+* May, 20. 2019. I started internship at NVIDIA. 
 * March 18-21, 2019. I gave a talk at NVIDIA GTC 2019. Slides could be found [here](https://github.com/Mariewelt/mariewelt.github.io/blob/master/files/GTC_2019_presentation.pdf).
 * March 8, 2019. I was accepted to [Deep Learning and Reinforcement Learning Summer School 2019](https://dlrlsummerschool.ca).
 * December 18, 2018. I received [NVIDIA Graduate Fellowship for 2019-2020](https://research.nvidia.com/grad_fellowship/2019).
