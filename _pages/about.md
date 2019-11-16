@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://mariewelt.github.io/files/mariewelt_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I will be tranferring to Carnegie Mellon University starting Spring 2020 to work with [Dr. Olexandr Isayev](http://olexandrisayev.com)
+* I will be tranferring to [Carnegie Mellon University](http://www.cbd.cmu.edu/education/phd-in-computational-biology/) starting Spring 2020 to work with [Dr. Olexandr Isayev](http://olexandrisayev.com)
 * I am a third-year Ph.D student in the [Molecular Modeling Laboratory](http://mml.web.unc.edu) at the [University of North Carolina and Chapel Hill](https://www.unc.edu). 
 * I received my Bachelor’s Degree in Applied Mathematics and Physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/) and my Master's degree in Computer Science from [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/). 
 *  My research focuses on applications and development of deep learning methods for computational chemistry and drug design.
