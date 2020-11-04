@@ -13,13 +13,15 @@ redirect_from:
 </p>
 
 * I am a third-year Ph.D student [Carnegie Mellon University](http://www.cbd.cmu.edu/education/phd-in-computational-biology/) working with [Dr. Olexandr Isayev](http://olexandrisayev.com) 
-* I received my Bachelor’s Degree in Applied Mathematics and Physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/) and my Master's degree in Computer Science from [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/). 
+* I received my Bachelor’s and Master's Degrees in Applied Mathematics and Physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/) and Master's degree in Mathematics and Computer Science from [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/). 
 *  My research focuses on applications and development of deep learning methods for computational chemistry and drug design.
 
 
 # Recent News
-* October 10, 2019. I was invited to participate in PyTorch DevCon as a panel speaker. Recording is [here](https://www.youtube.com/watch?v=ivTGO6BAQG0)
-* May 20, 2019. I started internship at NVIDIA. 
+* June 1, 2020. I started a 3 month summer internship at Pfizer Simulation and Modeling Sciences Team. 
+* April 24, 2020. I won NVIDIA GTC 2020 Best Poster Award. Poster is [here](https://github.com/Mariewelt/mariewelt.github.io/blob/master/files/gtc2020_poster.pdf)
+* October 10, 2019. I participated in PyTorch DevCon 2019 as a panel speaker. Recording is [here](https://www.youtube.com/watch?v=ivTGO6BAQG0)
+* May 20, 2019. I started an internship at NVIDIA. The internship will end in December 2020.  
 * March 18-21, 2019. I gave a talk at NVIDIA GTC 2019. Slides could be found [here](https://github.com/Mariewelt/mariewelt.github.io/blob/master/files/GTC_2019_presentation.pdf).
 * March 8, 2019. I was accepted to [Deep Learning and Reinforcement Learning Summer School 2019](https://dlrlsummerschool.ca).
 * December 18, 2018. I received [NVIDIA Graduate Fellowship for 2019-2020](https://research.nvidia.com/grad_fellowship/2019).
