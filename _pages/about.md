@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://mariewelt.github.io/files/mariewelt_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a third-year Ph.D student [Carnegie Mellon University](http://www.cbd.cmu.edu/education/phd-in-computational-biology/) working with [Dr. Olexandr Isayev](http://olexandrisayev.com) 
+* I am a 4th Ph.D student [Carnegie Mellon University](http://www.cbd.cmu.edu/education/phd-in-computational-biology/) working with [Dr. Olexandr Isayev](http://olexandrisayev.com) 
 * I received my Bachelor’s and Master's Degrees in Applied Mathematics and Physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/) and Master's degree in Mathematics and Computer Science from [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/). 
 *  My research focuses on applications and development of deep learning methods for computational chemistry and drug design.
 
